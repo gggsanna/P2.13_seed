@@ -1,8 +1,8 @@
 #  Lab 01 - Introduction
-## Deal.II Users and Developers Training 
-### SMR2909 - MHPC P2.5
+## Numerical Solution of PDEs Using the Finite Element Method 
+### MHPC P2.13_seed
 
-**Timo Heister** <heister@clemson.edu> 
+**Martin Kronbichler** <kronbichler@lnm.mw.tum.de> 
 and
 **Luca Heltai** <luca.heltai@sissa.it>
 
